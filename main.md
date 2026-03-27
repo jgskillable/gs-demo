@@ -1,5 +1,8 @@
 # Lab: Setting Up a Custom DNS Server in Windows
 
+
+ +++Demo+++ 
+
 ## Overview
 
 In this lab, you will configure a custom DNS server on a Windows machine using the **DNS Server** role available in Windows Server. By the end of this lab, you will be able to:
