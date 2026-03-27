@@ -1,4 +1,12 @@
+<!-- skillable-metadata:start -->
+[![Edit in Skillable Studio](https://img.shields.io/badge/Edit%20in-Skillable%20Studio-7000ff)](https://admin.qa.skillable.com/Instructions/Edit/30866?instructionsSetId=19287)
+<!-- skillable-metadata:end -->
+
 # Lab: Setting Up a Custom DNS Server in Windows
+
+
+ +++Demo+++ 
+ +++Demo+++ 
 
 ## Overview
 
